@@ -1,0 +1,14 @@
+{
+  "name": "jsasyncycallbacks",
+  "version": "1.0.0",
+  "description": "Ejemplo de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Programando Ideas",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
