@@ -42,13 +42,13 @@ cuando se usa asignación object literal destructuring
 Fuente: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
  */
 const paises = [
-    { pais: 'México', cod: 52, },
+    { pais: 'México', cod: 52 },
     { pais: 'Perú', cod: 51 },
     { pais: 'Colombia', cod: 57 },
     { pais: 'Argentina', cod: 54 }
 ];
 
-paises.forEach(e => {
-    ({ pais: p } = e);
+paises.forEach(pais => {
+    ({ pais: p } = pais);
     console.log(p);
 });
