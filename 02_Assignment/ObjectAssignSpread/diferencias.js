@@ -6,23 +6,23 @@ console.log('*** Object.assign(target, ...sources) vs Object spread obj = {...ob
 //  - Object spread define propiedades nuevas sobreescribiendo las originales  (inmutable)
 class Persona {
     set nombre(nom) {
-        console.log('Se invocó al setter del nombre', nom);
+        console.log('Se invocó al setter', nom);
         this.nom = nom;
     }
     get nombre() {
         return this.nom;
     }
 }
+
+console.log('/*** Object.assign ***/');
+let persona1 = new Persona();
+Object.assign(persona1, { nombre: 'Jose' });
+console.log(persona1);
+
+console.log('/*** Object Spread ***/');
 let persona2 = new Persona();
-persona2.nombre = 'Jose Sanchez';
-
-let persona = new Persona();
-Object.assign(persona, persona2);
-console.log('persona -->', persona);
-
-let persona3 = new Persona();
-persona3 = {...persona2 };
-console.log('persona3 -->', persona3);
+persona2 = { ...{ nombre: 'Juan' } };
+console.log(persona2);
 
 // Con Object.assign siempre hay que asegurarse de que el primer parametro
 // este seteado o pasarle {}
