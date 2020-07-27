@@ -1,8 +1,8 @@
-# Tutoriales y código acerca de JavaScript 🎓💻📚🎥
+# Tutoriales y código acerca de JavaScript Fundamentals 🎓💻📚🎥
 #### [Lista de reproducción](https://www.youtube.com/playlist?list=PLASYuXBkVl1SdcTp4QWMDt9OxmAVDCZBT)
 
-En esta sección que abrimos en Programando Ideas vamos a tratar temas de interes sobre la actualidad de JavaScript.
-Los invito a estar pendientes de los próximos videos!
+En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental conocer y dominar todas sus características! En esta (lista de reproducción)[ https://www.youtube.com/playlist?list=PLASYuXBkVl1SdcTp4QWMDt9OxmAVDCZBT] encontraran video tutoriales y código acerca de JavaScript para reforzar conocimientos y aprender nuevos temas 🥳🎓💻📚🎥
+
 
 ## Índice
   
