@@ -9,7 +9,8 @@ Los invito a estar pendientes de los próximos videos!
 - [Callbacks y Callbacks “Hell” + Promesas + Async / Await + Rxjs: Observables](https://youtu.be/MUHMT8NMdhU)
 - Destructuring Assignment, Object.assign y Object Spread
   - [Parte 1](https://youtu.be/QbEeMtorvpw)
-  - Parte 2 (Próximamente)
+  - [Parte 2](https://youtu.be/oTpLQDn7ZxI)
+- ECMAScript 6 vs CommonJS modules (Próximamente)
  
   
  ## Referencias
@@ -18,6 +19,5 @@ Los invito a estar pendientes de los próximos videos!
 3. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
 
 ##
-**Programando Ideas 2020**
-ＪａｖａＳｃｒｉｐｔ
+**Programando Ideas 2020** - ＪａｖａＳｃｒｉｐｔ
 ##
