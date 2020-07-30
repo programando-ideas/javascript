@@ -1,5 +1,5 @@
-# Tutoriales y código acerca de JavaScript Fundamentals 🎓💻📚🎥
-En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental conocer y dominar todas sus características! En esta [Lista de reproducción](https://www.youtube.com/playlist?list=PLASYuXBkVl1SdcTp4QWMDt9OxmAVDCZBT) encontraran video tutoriales y código acerca de JavaScript para reforzar conocimientos y aprender nuevos temas 🥳🎓💻📚🎥
+# ⭐ JavaScript Fundamentals ⭐
+En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental conocer y dominar todas sus características! En esta [Lista de reproducción](https://www.youtube.com/playlist?list=PLASYuXBkVl1SdcTp4QWMDt9OxmAVDCZBT) encontraran video tutoriales y código acerca de JavaScript para reforzar conocimientos y aprender nuevos temas 📚🎥💻🎓🥳
 
 
 ## Índice
