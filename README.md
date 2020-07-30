@@ -4,10 +4,10 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
 
 ## Índice
   
-- [Callbacks y Callbacks “Hell” + Promesas + Async / Await + Rxjs: Observables](https://youtu.be/MUHMT8NMdhU)
+- 🎬 [Callbacks y Callbacks “Hell” + Promesas + Async / Await + Rxjs: Observables](https://youtu.be/MUHMT8NMdhU)
 - Destructuring Assignment, Object.assign y Object Spread
-  - [Parte 1](https://youtu.be/QbEeMtorvpw)
-  - [Parte 2](https://youtu.be/oTpLQDn7ZxI)
+  - 🎬 [Parte 1](https://youtu.be/QbEeMtorvpw)
+  - 🎬 [Parte 2](https://youtu.be/oTpLQDn7ZxI)
 - ECMAScript 6 vs CommonJS modules (Próximamente)
  
   
