@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="">
+    <title>Modulos</title>
+
+    <!-- Modulos -->
+    <script type="module">
+        console.log('\n***************\n*** Modulos ***\n***************');
+
+        import { saludar, suma2 } from '../modules/ES6_main.js';
+        saludar('juan');
+
+        const num = 10;
+        console.log(`${num} + 2 = ${suma2(num)}`);
+    </script>
+</head>
+
+<body>
+    <h1>Ejemplo de M&oacute;dulos ES6 en el Browser</h1>
+    <a href="/">Volver</a>
+</body>
+
+</html>

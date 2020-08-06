@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="">
+    <title>JavaScript</title>
+
+    <!-- JavaScript IIFE -->
+    <script type="text/javascript" src="../modules/iife_namespaces.js"></script>
+    <script type="text/javascript" src="../modules/iife.js"></script>
+    <script type="text/javascript">
+        console.log('\n*************************\n*** JavaScript iife ***\n*************************');
+        // console.log('variable_global_iife', variable_global_iife); // Da error
+        console.log(nsIIFE.App.funcionesMath.sumar(10, 20));
+        console.log(nsIIFE.App.funcionesMath.multiplicar(10, 20));
+    </script>
+</head>
+
+<body>
+    <h1>Ejemplo de JavaScript en el Browser (IIFE)</h1>
+    <a href="/">Volver</a>
+</body>
+
+</html>
