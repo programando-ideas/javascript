@@ -14,9 +14,11 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
  
   
  ## Referencias
-1. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
-2. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/assign
-3. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
+1. Destructuring Assignment: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
+2. Object.assign(): https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/assign
+3. Object Spread: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
+4. IIFE: https://developer.mozilla.org/es/docs/Glossary/IIFE
+5. JavaScript Modules: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/M%C3%B3dulos
 
 ##
 **Programando Ideas 2020** - ＪａｖａＳｃｒｉｐｔ
