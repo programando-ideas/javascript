@@ -8,7 +8,9 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
 - Destructuring Assignment, Object.assign y Object Spread
   - 🎬 [Parte 1](https://youtu.be/QbEeMtorvpw)
   - 🎬 [Parte 2](https://youtu.be/oTpLQDn7ZxI)
-- ECMAScript 6 vs CommonJS modules (Próximamente)
+- Módulos: IIFE, ES6, CommonJS
+  - 🎬 [Parte 1](https://youtu.be/QbEeMtorvpw)
+  - 🎬 Parte 2 (Próximamente)
  
   
  ## Referencias
