@@ -11,8 +11,13 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
 - Módulos: IIFE, ES6, CommonJS
   - 🎬 [Parte 1](https://youtu.be/oE2qqWzxOZE)
   - 🎬 Parte 2 (Próximamente)
+  ```
+    # Ejecutar el proyecto
+    cd javascript\03_Modules\
+    npm install
+    npx http-server ./www -c-1 -o
+  ```
  
-  
  ## Referencias
 1. Destructuring Assignment: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
 2. Object.assign(): https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/assign
