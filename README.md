@@ -25,6 +25,9 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
 3. Object Spread: https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
 4. IIFE: https://developer.mozilla.org/es/docs/Glossary/IIFE
 5. JavaScript Modules: https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/M%C3%B3dulos
+6. [RequireJS](https://requirejs.org/docs/download.html#requirejs):
+  - https://requirejs.org/
+  - https://requirejs.org/docs/api.html#jsfiles
 
 ##
 **Programando Ideas 2020** - ＪａｖａＳｃｒｉｐｔ
