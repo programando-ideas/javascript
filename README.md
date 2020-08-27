@@ -12,9 +12,10 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
   - 🎬 [Parte 1](https://youtu.be/oE2qqWzxOZE)
   - 🎬 Parte 2 (Próximamente)
   ```
-    # Ejecutar el proyecto
-    cd javascript\03_Modules\
+    # Ejecutar el proyecto - https://www.npmjs.com/package/http-server
+    cd javascript\03_Modules\www
     npm install
+    cd ..
     npx http-server ./www -c-1 -o
   ```
  
