@@ -10,7 +10,7 @@ En la actualidad el lenguaje JavaScript esta por todas partes. Es fundamental co
   - 🎬 [Parte 2](https://youtu.be/oTpLQDn7ZxI)
 - Módulos: IIFE, ES6, CommonJS
   - 🎬 [Parte 1](https://youtu.be/oE2qqWzxOZE)
-  - 🎬 Parte 2 (Próximamente)
+  - 🎬 [Parte 2](https://youtu.be/mXpUN6qXlb4)
   ```
     # Ejecutar el proyecto - https://www.npmjs.com/package/http-server
     cd javascript\03_Modules\www
